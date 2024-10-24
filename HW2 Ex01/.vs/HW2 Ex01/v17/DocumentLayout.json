@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\HW2 Ex01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8BDDCDD-B542-4106-9175-C888944CDAC2}|HW2 Ex01\\HW2 Ex01.csproj|c:\\users\\asus\\source\\repos\\hw2 ex01\\hw2 ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8BDDCDD-B542-4106-9175-C888944CDAC2}|HW2 Ex01\\HW2 Ex01.csproj|solutionrelative:hw2 ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW2 Ex01\\HW2 Ex01\\Program.cs",
+              "RelativeDocumentMoniker": "HW2 Ex01\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW2 Ex01\\HW2 Ex01\\Program.cs",
+              "RelativeToolTip": "HW2 Ex01\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:09:42.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
